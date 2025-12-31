@@ -8,8 +8,11 @@ NASA_Battery_Project/
 ├── scripts/
 ├── results/
 
-run the inspect_one_csv.m to check for the files imported to matlab workspace
+https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data   ---> link for the dataset which we used in this project
 
 after this run the file named run_batch_RC_extraction.m 
 this will run the other scripts and generate the 2-RC parameters as a .csv file
 i have attached the result files along with this
+
+we will do the deep learning part soon
+
